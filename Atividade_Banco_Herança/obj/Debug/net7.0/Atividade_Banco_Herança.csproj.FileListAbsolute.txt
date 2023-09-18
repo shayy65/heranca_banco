@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\bin\Debug\net7.0\Atividade_Banco_Herança.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\bin\Debug\net7.0\Atividade_Banco_Herança.deps.json
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\bin\Debug\net7.0\Atividade_Banco_Herança.runtimeconfig.json
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\bin\Debug\net7.0\Atividade_Banco_Herança.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\bin\Debug\net7.0\Atividade_Banco_Herança.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\refint\Atividade_Banco_Herança.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\Atividade_Banco_Herança.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Atividade_Banco_Herança\Atividade_Banco_Herança\obj\Debug\net7.0\ref\Atividade_Banco_Herança.dll
