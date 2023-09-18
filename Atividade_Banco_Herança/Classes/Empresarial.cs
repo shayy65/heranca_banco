@@ -46,8 +46,8 @@ namespace Atividade_Banco_Herança.Classes
 
 
         }
-
-        public void Sacar(double valorsaque)
+        //gg
+        public override void Sacar(double valorsaque)
         {
             try
             {
